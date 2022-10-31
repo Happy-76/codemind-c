@@ -1,5 +1,3 @@
-// C++ program to check if a given
-// year is leap year or not
 #include <bits/stdc++.h>
 using namespace std;
 
